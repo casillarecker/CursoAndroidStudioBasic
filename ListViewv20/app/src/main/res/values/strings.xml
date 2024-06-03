@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ListViewv20</string>
+    <string name="descripcion">descripcion</string>
+    <string name="registrar">Registrar</string>
+    <string name="txt_name">Nombre o sitio web</string>
+    <string name="txt_pass">Contraseña</string>
+    <string name="btnNext">next Activity enviar</string>
+    <string name="tvi">One Activity</string>
+    <string name="btnBack">Back Activity</string>
+    <string name="tv2">Two Activity</string>
+
+    <string name="setgmail">Ingrese su gmail</string>
+    <string name="btnguardar">save</string>
+    <string name="btnSeart">Search</string>
+    <string name="txtline">Ingrese datos</string>
+    <string name="btnClose">Close Windows</string>
+
+    <string name="txtset">Ingrase datos</string>
+    <string name="txtdate">Aqui muestra los datos</string>
+    <string name="btnregistrodate">Registro</string>
+    <string name="btnsearch">buscar</string>
+
+
+    <string name="txtbitavora">Aqui se mostrará los datos</string>
+    <string name="btnbitavora">Guardar</string>
+
+
+</resources>
