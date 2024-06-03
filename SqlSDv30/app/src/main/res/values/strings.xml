@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">SqlSDv30</string>
+
+    <string name="txtnameInsert">Ingrese datos</string>
+    <string name="btnserch">Serch</string>
+    <string name="btnsave">Save</string>
+    <string name="btnconsult">Consult</string>
+
+    <string name="txtid">Código del producto</string>
+    <string name="txtDescri">Descripción del producto</string>
+    <string name="txtprecio">Precio del producto</string>
+
+    <string name="btnsRegister">Register product</string>
+    <string name="btnsserch">serch product</string>
+    <string name="btnModify">Modify product</string>
+    <string name="btnEliminate">eliminate product</string>
+
+    //Botónes principales para accion de hacerlo
+
+    <string name="btnRegistersProducts">Product</string>
+
+
 </resources>
