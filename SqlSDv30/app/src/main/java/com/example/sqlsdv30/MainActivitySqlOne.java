@@ -78,6 +78,7 @@ public class MainActivitySqlOne extends AppCompatActivity {
                 et2.setText(fila.getString(0));
                 et3.setText(fila.getString(1));
                 sqLiteDatabase.close();
+
             }else{
                 Toast.makeText(this, "No existe el artículo", Toast.LENGTH_SHORT).show();
                 sqLiteDatabase.close();

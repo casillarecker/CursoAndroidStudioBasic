@@ -48,6 +48,11 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, MainActivitySqlOne.class);
         startActivity(intent);
     }
+    public void CorreoCalcula (View view){
+        Intent intent = new Intent(this, MainActivityLinearLayout.class);
+        startActivity(intent);
+    }
+
 
     // Método para el bóton Guardar
     public void Guardar (View view){

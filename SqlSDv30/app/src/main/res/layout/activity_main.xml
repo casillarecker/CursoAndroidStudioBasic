@@ -71,11 +71,11 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="64dp"
         app:layout_constraintTop_toBottomOf="@+id/txtmuline"
-        tools:layout_editor_absoluteX="10dp">
+        tools:layout_editor_absoluteX="0dp">
 
         <Button
             android:id="@+id/btnproduct"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:onClick="Product"
 
@@ -85,7 +85,8 @@
             android:id="@+id/button3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Button" />
+            android:onClick="CorreoCalcula"
+            android:text="@string/btncorreoCalculador" />
 
         <Button
             android:id="@+id/button4"
